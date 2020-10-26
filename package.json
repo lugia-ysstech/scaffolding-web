@@ -15,9 +15,11 @@
   },
   "devDependencies": {
     "@lugia/devtools-widgets": "^1.0.1",
-    "@lugia/lugia-web": "^1.2.6-alpha.6",
+    "@lugia/dict": "^1.0.5",
+    "@lugia/lugia-web": "^1.2.5",
     "@lugia/lugiax-router": "^1.0.22",
-    "@lugia/mega-scripts": "^1.6.3",
+    "@lugia/mega-scripts": "^1.6.4",
+    "@lugia/theme-core": "^1.1.12",
     "@types/events": "^3.0.0",
     "@types/jest": "^24.0.18",
     "@types/react": "^16.9.53",
