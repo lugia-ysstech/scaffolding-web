@@ -1,0 +1,2 @@
+# scaffolding-web
+use web
